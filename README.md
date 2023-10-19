@@ -15,6 +15,6 @@ Analyse the UK housing market (such as property prices, sales numbers etc) and c
 
 ## Process Undertaken
 - Using agile principles, we held regular meetings as a group to discuss, assign and update our progress on tasks with this being recorded and montiored using tools such as the ticketing system in Jira.
-- Raw data was collected which included data in .csv (comma separated value) or .xls or .xlsx (Microsoft Excel worksheet) formats. These were gathered from various sources such as UK Land Registry, Bank of England etc - see links to the data sources in the last slide of the powerpoint presentation included <a href="https://github.com/davidip86/UK_Housing_Market_Analysis/blob/main/Presentation%20-%20UK%20Housing%20Market.pptx">here</a>.
+- Raw data was collected which included data in .csv (comma separated value) or .xls or .xlsx (Microsoft Excel worksheet) formats. These were gathered from various sources such as UK Land Registry, Bank of England etc - see links to the data sources in the last slide of the powerpoint presentation <a href="https://github.com/davidip86/UK_Housing_Market_Analysis/blob/main/Presentation%20-%20UK%20Housing%20Market.pptx">here</a>.
 - 
 ![Average House Price By Country](https://github.com/davidip86/UK_Housing_Market_Analysis/assets/136905010/e2da7b2a-268f-404a-ae61-700d921315ef)

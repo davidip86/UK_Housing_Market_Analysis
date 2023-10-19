@@ -44,4 +44,21 @@ Analyse the UK housing market (such as property prices, sales numbers etc) and c
 - Q3 2007 – Q1 2009: Most probably due to the effects of the global financial crisis which led to a lack of confidence in banking and housing by the public. This in turn seems to have led to a reduction in average house prices across the UK over a similar period.
 - Q2 2020 – Q2 2021: Likely due to the availability of record low mortgage interest rates as well as a government introduced stamp duty holiday between 8th July 2020 and 30th June 2021 meaning there was no stamp duty payable on properties worth up to £500k. This is surprising given COVID-19 which introduced restrictions at the time, however viewings were still allowed and the appetite for people to move home (typically to somewhere larger and more remote) was also strong during this time.
 - Q3 2022 – Q2 2023: This is likely due to the current economic circumstances which includes much higher CPIH (Consumer Prices Index, including housing costs) inflation and higher mortgage interest rates.
-  
+<br>
+
+![Properties Sold vs Interest Rates](https://github.com/davidip86/UK_Housing_Market_Analysis/assets/136905010/da714f62-c598-4e1d-9ee7-d436a756625d)
+
+#### Observations
+- 2012-2014: The number of properties sold can be seen to be significantly increasing from around 2100 per quarter to close to 3000 per quarter.
+- Q4 2019 - Q4 2020: A sharp decline in properties sold can be seen from about 2700 per quarter to about 2250 per quarter. 
+- Q4 2021 - Q2 2023: A vary sharp decline in the number of properties sold can be seen from about 3000 per quarter to about 1000 per quarter. 
+
+#### Possible explanations
+- 2012-2014: Over this period Bank of England's base rate holds at historic lows and inflation as measured by the CPIH rate (Consumer Prices Index including owner occupiers' housing costs) as well as the average mortgage interest rate across housing stock reduces significantly. This combination likely contributes to the consumers feeling more financially secure and increasing the appetite to take on a mortgage and purchase a peoperty hence the increase in properties sold.
+- Q4 2019 - Q4 2020: During this period interest rates don't appear to change significantly are are still some of the lowest seen in the graphed period. The drop in sales is likely due to the effects of the COVID-19 pandemic in this period which led to people having more restrictions on their movements, mortgage lenders being more cautious and restrictive with lending due to people being placed on furlough at the time and the legal process to complete a property transaction taking much longer than usual due to many people having to work from home.
+- Q4 2021 - Q2 2023: As can be seen the UK is experiencing large rises in interest rates and in particular inflation. There has been a knock on effect with the Bank of England increasing the base rate many times over this period and this then being passed on by mortgage lenders as can be seen my the average mortgage interest rate increasing too. All of this has combined and the UK is within the midst of a 'cost of living' crisis therefore this has almost certainly led to the sharp decrease in the number of properties sold.
+
+### UK Housing Market Prediction 
+Based on the current dataset, average UK property prices are still on a slight upward trajectory however as can be seen in graph above the numbers of properties sold has sharply reduced. With a sharp decrease in demand it's reasonable to expect that average UK property values may experience a decrease similar to the period after the global financial crisis in 2007-08. 
+
+

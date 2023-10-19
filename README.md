@@ -6,7 +6,7 @@ Given my previous experience as a mortgage adviser and the state of the economy 
 Analyse the UK housing market (such as property prices, sales numbers etc) and compare this with UK economic data (such as inflation rate, mortgage interest rates etc) to try and establish any trends or interesting insights.
 
 ## Objectives
-- Demonstrate the use of as many of the skills and technical knowledge we'd learnt in our training to carry out this assessment i.e. SQL, Excel, Power BI, Python
+- Demonstrate the use of as many of the skills and technical knowledge we'd learnt in our training at Albany Beck to carry out this assessment i.e. SQL, Excel, Power BI, Python
 - Find credible and publically available sources of raw data as required to perform such an analysis
 - Use agile working practices and tools to co-ordinate, collaborate and complete the project (e.g. Confluence, Jira, Github etc)
 - Use ETL techniques on the raw datat to create cleaned datasets in readiness for analysis

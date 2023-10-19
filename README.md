@@ -1,7 +1,7 @@
 # UK Housing Market Analysis
 
 ## Description
-Given my previous experience as a mortgage adviser and the state of the economy being reported on in the UK recently e.g. increasing inflation, increasing interest rates and the 'cost of living crisis', I proposed and undertook the following group project with some colleagues at Albany Beck:
+Given my previous experience as a mortgage adviser and the state of the economy being reported on in the UK recently e.g. increasing inflation, increasing interest rates and the 'cost of living crisis', I proposed and undertook the following group project with some colleagues:
 
 Analyse the UK housing market (such as property prices, sales numbers etc) and compare this with UK economic data (such as inflation rate, mortgage interest rates etc) to try and establish any trends or interesting insights.
 

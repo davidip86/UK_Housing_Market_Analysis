@@ -11,7 +11,7 @@ Analyse the UK housing market (such as property prices, sales numbers etc) and c
 - Use agile working practices and tools to co-ordinate, collaborate and complete the project (e.g. Confluence, Jira, Github etc)
 - Use ETL techniques on the raw datat to create cleaned datasets in readiness for analysis
 - Consider transforming data into tables for use within an SQL database and having this centrally accessible and maintainable within the cloud
-- After performing analysis on the data, present any interesting trends, insights and rationale within a dashboard and/or powerpoint presentation
+- After performing analysis on the data, present any interesting trends, insights and rationale within a dashboard and/or Powerpoint presentation
 
 
 ![Average House Price By Country](https://github.com/davidip86/UK_Housing_Market_Analysis/assets/136905010/e2da7b2a-268f-404a-ae61-700d921315ef)
